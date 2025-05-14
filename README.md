@@ -63,7 +63,7 @@ pip install -r requirements.txt
 You can store your API key in a `.env` file in the root directory:
 
 ```
-GEMINI_API_KEY=your_key_here
+GEMINI_API_KEY=your_gemini_api_key_here
 Model_Name=your_model_name 
 ```
 
